@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "BuildFirst"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-BuildFirst-a8f3ba99-9513-402d-be3d-4b8f0f8bdc9b;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
